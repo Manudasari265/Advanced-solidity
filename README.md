@@ -1,9 +1,9 @@
 # Proof of work during Advanced Solidity bootcamp
 
-## `**Note-**` *All of the concept related answers will be in README.md on a weekly basis*
-## `**Note-**` *All of the code related solutions will be in respective directories on a weekly basis*
+### `Note-` **All of the concept related answers will be in README.md on a weekly basis**
+### `Note-` **All of the code related solutions will be in respective directories on a weekly basis**
 
-### Week - 1
+## Week - 1
 Topics covered - 
    * Blockchain Theory / Modular chains
    * L2 introduction
@@ -14,7 +14,7 @@ Topics covered -
    * Danksharding
    * Cryptography review
 
-- [] **Why is client diversity important for Ethereum?**
+- [x] **Why is client diversity important for Ethereum?**
 - [] **Where is the full Ethereum state held?**
 - [] **What is replay attack? which 2 pieces of information can prevent it?**
 - [] **In a contract, how do we know who called a view function?**
