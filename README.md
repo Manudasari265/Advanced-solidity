@@ -17,7 +17,7 @@ Topics covered -
 - [x] **Why is client diversity important for Ethereum?**
 - [x] **Where is the full Ethereum state held?**
 - [x] **What is replay attack? which 2 pieces of information can prevent it?**
-- [] **In a contract, how do we know who called a view function?**
+- [x] **In a contract, how do we know who called a view function?**
 
 **Q1 Why is client diversity important for Ethereum?**
 
