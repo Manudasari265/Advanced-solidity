@@ -40,5 +40,12 @@ Topics covered -
 
 `"A replay attack is when a malicious actor captures and retransmits valid data to achieve fraudulent authentication or execute unauthorized actions in a network"`
 
+`1.Timestamps: Similarly, timestamps are a widely used tool for preventing replay attacks. Because timestamps cryptographically ensure the time a message has been sent, they can be used to set arbitrary time spans that determine the validity of messages`
 
+`2.Multi-Factor Authentication: Multi-factor authentication, also known as MFA, is another useful tool to prevent replay attacks because it adds additional authentication steps that are not part of the original data transmission.`
+
+**Q4In a contract, how do we know who called a view function?**
+
+`To determine who called a view function in a Solidity contract, you can use the global variable msg.sender, which holds the address of the account that initiated the call` 
+`This works for both view and non-view functions. For example, in a view function, msg.sender will return the caller’s address without modifying the contract’s state.`
 
